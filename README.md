@@ -1,16 +1,22 @@
-### Hi there 👋
+# **Hi, I'm Henrique** 🙋‍♂️💻👋
 
-<!--
-**HenryCarvalho/HenryCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
 
-Here are some ideas to get you started:
+* 🧔💻 Data Scientist 💻
+* 📊 Counter.
+* 📒 Researcher.
+* 🧔🎓Bachelor of Accounting Sciences.
+* 🧔🎓Postgraduate degree in Corporate Finance, M&A and Equity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  🧔💻
+
+* 🐍 Python.
+* 📈 Power Bi.
+* 🗄  Excel Advanced.
+* 🤖 UiPath
+*  💲 Financial analysis
+*  🗂 Process analysis
+
+## Find me around the world: earth_americas:
+
+* [linkedin]( https://www.linkedin.com/in/henriquegod%C3%AA/)
