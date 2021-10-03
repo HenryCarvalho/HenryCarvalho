@@ -1,5 +1,8 @@
 # **Hi, I'm Henrique** 🙋‍♂️💻👋
 
+###
+![GitHub Logo](Avatar01.png)
+
 ## Who am I? 
 
 * 🧔💻 Data Scientist 💻
