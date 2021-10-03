@@ -19,4 +19,4 @@
 
 ## Find me around the world: earth_americas:
 
-* [linkedin]( https://www.linkedin.com/in/henriquegod%C3%AA/)
+* [Linkedin]( https://www.linkedin.com/in/henriquegod%C3%AA/)
