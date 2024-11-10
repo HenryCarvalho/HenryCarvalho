@@ -16,7 +16,7 @@
 ## Skills  🧔💻
 
 *
-*[![css](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=css,flutter&perline=3)](https://skillicons.dev)
 *
 * 🐍 Python.
 * 📈 Power Bi.
