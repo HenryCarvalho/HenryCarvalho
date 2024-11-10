@@ -15,7 +15,7 @@
 
 ## Skills  🧔💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,anaconda,python,github,git,linux,oracle,mysql,mongodb,sqlserver,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,anaconda,python,github,git,linux,mysql,mongodb,heroku)](https://skillicons.dev)
 * 📈 Power Bi.
 * 🗄  Excel Advanced.
 * 🤖 UiPath
