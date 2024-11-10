@@ -15,15 +15,12 @@
 
 ## Skills  🧔💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,oracle,python,sqlserver,flutter&perline=3)](https://skillicons.dev)
-*
-* 🐍 Python.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,anaconda,python,github,git,linux,oracle,mysql,mongodb,sqlserver,heroku)](https://skillicons.dev)
 * 📈 Power Bi.
 * 🗄  Excel Advanced.
 * 🤖 UiPath
 * 💲 Financial analysis
 * 🗂 Process analysis
-* 💽 MySQL, SQL, Mongo
 * 🧠 Machine Learning
 * 💡 Generating insights for your business.
 * 🕸  Database structure and connection.
