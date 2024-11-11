@@ -8,6 +8,7 @@
 * 🧔💻 Data Scientist 💻
 * 📊 Counter.
 * 📒 Researcher.
+* 🧔🎓Systems Analysis and Development.
 * 🧔🎓Bachelor of Accounting Sciences.
 * 🧔🎓Postgraduate degree in Corporate Finance, M&A and Equity.
 * 🧔🎓MBA in Technology for Business: AI, Data Science and Big Data.
